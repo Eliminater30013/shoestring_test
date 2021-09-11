@@ -1,7 +1,7 @@
 # Shoestring Test Discord Chat Bot
 
 ## About The Project
-This is a Discord chat bot, which helps you troubleshoot issues with machines in your workspace. It can be adapted to any machine by adding csv files in the [db](db/) directory.
+This is a Discord chat bot, which helps you troubleshoot issues with machines in your workspace. It can be adapted to any machine by adding csv files in the [db](db/) directory. The chatbot was coded in Python, is interactive (via displaying GIFs and images) and can provide a relevant YouTube video if the solution to the problem cannot be found.
 
 ## Prerequisites
 
